@@ -1,10 +1,8 @@
 import React from "react";
 import GoogleMapReact from "google-map-react";
-import { GoogleApiWrapper, HeatMap } from "google-maps-react";
+import { GoogleApiWrapper, HeatMap, Map } from "google-maps-react";
 
 import "./map.css"
-import Hook from "./Hook"
-import MapPicker from 'react-google-map-picker'
 import Dashboard from "./dashboard";
 
 
