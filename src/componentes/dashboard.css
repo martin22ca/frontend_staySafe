@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  .dash{
+    font-size: 1.3rem !important;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: var(--primario1);
+    margin-bottom: 15px;
+
+  }
+  .chartMenu {
+    width: 100vw;
+    height: 400px;
+    background: #2a9e43;
+    color: rgba(255, 26, 104, 1);
+  }
+  .chartMenu p {
+    padding: 10px;
+    font-size: 20px;
+  }
+  .chartCard {
+    background: #F6F6F6;
+    padding: 10px;
+    margin: 30px;
+    justify-content: center;
+  }
+  .chartBox {
+    width: 8000px;
+    padding: 20px;
+    border-radius: 20px;
+    border: solid 3px rgba(255, 26, 104, 1);
+    background: rgb(17, 17, 17);
+  }
